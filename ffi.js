@@ -1,0 +1,2 @@
+$('#DateDiv input').datepicker({
+});

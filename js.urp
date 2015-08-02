@@ -1,0 +1,7 @@
+script http://code.jquery.com/jquery-1.9.1.min.js
+script http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/js/bootstrap-datepicker.js
+allow url http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css
+allow url http://eternicode.github.io/bootstrap-datepicker/bootstrap-datepicker/css/datepicker3.css
+jsFunc Js.datepicker=datepicker
+benignEffectful Js.datepicker
+ffi js
